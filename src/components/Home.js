@@ -6,7 +6,7 @@ export const Home = () => {
     style={{marginTop: '80px'}}
     >
         <h3 className='ui header'>Home</h3>
-        <p>lorum epsim </p>
+        <p> lorum ipsum</p>
     </div>
   )
 }
